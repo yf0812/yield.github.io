@@ -25,6 +25,7 @@ sections:
     content:
       title: Classification of Yield Analysis
       text: lalalalala
+      text:                 
       username: admin
   - block: experience
     content:
