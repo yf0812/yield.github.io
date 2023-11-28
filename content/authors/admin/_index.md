@@ -98,7 +98,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Yield Estimation
+  - name: ✨ Yield Estimation
     items:
       - name: Python
         description: ''
@@ -112,7 +112,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Yield Optimation
+  - name: ✨ Yield Optimation
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
