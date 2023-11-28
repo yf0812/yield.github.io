@@ -98,7 +98,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - text: lalalalalala
   - name: ✨ Yield Estimation
     items:
       - name: Python

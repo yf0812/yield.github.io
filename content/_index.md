@@ -24,6 +24,7 @@ sections:
   - block: skills
     content:
       title: Classification of Yield Analysis
+      text: lalalalala
       username: admin
   - block: experience
     content:
