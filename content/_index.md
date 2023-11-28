@@ -7,10 +7,6 @@ type: landing
 
 # Page sections
 sections:
-  - block: skills
-    content:
-      title: Skills & Hobbies
-      username: admin
   - block: biography
     content:
       username: admin
@@ -25,6 +21,10 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+  - block: skills
+    content:
+      title: Classification of Yield Analysis
+      username: admin
   - block: experience
     content:
       username: admin
@@ -33,10 +33,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
   - block: languages
     content:
       title: Languages
