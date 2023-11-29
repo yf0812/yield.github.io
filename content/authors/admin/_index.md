@@ -6,8 +6,8 @@ title: Yield Analysis
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name: Shiung Wu
+# last_name: Chien
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Yanfang Liu (IceLab-X & Beihang University)
+    # url: https://github.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
