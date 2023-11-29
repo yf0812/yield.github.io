@@ -25,7 +25,7 @@ sections:
     content:
       title: Literature Statistics on Yield Analysis
       username: admin
-  - block: experience
+  - block: Yield Esitimation
     content:
       username: admin
     design:
