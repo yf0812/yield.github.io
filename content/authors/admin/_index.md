@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'yfliu0812@163.com'
+    url: 'mailto:yfliu0812@163.com'
     label: E-mail Me
   # - icon: x
   #   url: https://twitter.com/GetResearchDev
@@ -47,8 +47,8 @@ education:
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Thesis', 'Read Thesis'
+      url: 'https://example.com', 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
