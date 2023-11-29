@@ -39,7 +39,7 @@ profiles:
   # - icon: instagram
   #   url: https://www.instagram.com/
 
-Estimation:
+experience:
   - area: PhD Artificial Intelligence
     institution: Stanford University
     date_start: 2016-01-01
@@ -71,7 +71,7 @@ Estimation:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-Optimization:
+work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
