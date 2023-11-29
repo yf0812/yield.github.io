@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yield Analysis
+title: 🌟 Yield Analysis 🌟
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: AI for EDA
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Yanfang Liu (IceLab-X & Beihang University)
+  - name: 🔍 & ✏️  Yanfang Liu 👩 (IceLab-X & Beihang University)
     # url: https://github.com/
 
 # Social network links

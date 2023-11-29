@@ -23,7 +23,7 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: skills
     content:
-      title: Classification of Yield Analysis
+      title: Literature Statistics on Yield Analysis
       username: admin
   - block: experience
     content:
