@@ -28,16 +28,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'yfliu0812@163.com'
     label: E-mail Me
-  - icon: x
-    url: https://twitter.com/GetResearchDev
+  # - icon: x
+  #   url: https://twitter.com/GetResearchDev
   - icon: github
-    url: https://github.com/gcushen
-  - icon: linkedin
-    url: https://www.linkedin.com/
-  - icon: instagram
-    url: https://www.instagram.com/
+    url: https://github.com/IceLab-X
+  # - icon: linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: instagram
+  #   url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
